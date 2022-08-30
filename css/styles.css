@@ -1,0 +1,26 @@
+.candles {
+    float: left;
+}
+
+body {
+    background-color: cyan;
+    font-style: italic;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+section {
+    display: flex;
+}
+
+.woodwick {
+    float: right;
+}
+
+.soy {
+    float: none;
+}
+
+.aromatherapy {
+    float: none;
+    
+}
